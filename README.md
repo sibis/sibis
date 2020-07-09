@@ -2,7 +2,7 @@
 
 I am Sibi, based out of Bangalore, India. Thanks for dropping by!
 
-I like to code and learn new things related to computer science. I am a runner and a minimalist. You can find me at the ~~local~~ online meetups on javascript , golang and distributed systems.
+I like to code and learn new things related to computer science. I am a runner and a minimalist. You can find me at the ~~local~~ online meetups on javascript, golang and distributed systems.
 
 <!--
 **sibis/sibis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
